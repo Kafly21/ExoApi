@@ -119,3 +119,4 @@ C:\Users\ead\OneDrive - SESISENAISP - Escolas\Kauan_Dev\ExoApi\obj\Debug\net10.0
 C:\Users\ead\OneDrive - SESISENAISP - Escolas\Kauan_Dev\ExoApi\obj\Debug\net10.0\ExoApi.pdb
 C:\Users\ead\OneDrive - SESISENAISP - Escolas\Kauan_Dev\ExoApi\obj\Debug\net10.0\ExoApi.genruntimeconfig.cache
 C:\Users\ead\OneDrive - SESISENAISP - Escolas\Kauan_Dev\ExoApi\obj\Debug\net10.0\ref\ExoApi.dll
+C:\Users\ead\OneDrive - SESISENAISP - Escolas\Kauan_Dev\ExoApi\obj\Debug\net10.0\ExoApi.sourcelink.json
