@@ -14,7 +14,7 @@ namespace ExoApi.Models
         [Column("cd_projeto")]
         public int Id { get; set; }
         [Column("nm_projeto")]
-        public string Nome {get; set; }
+        public string NomeDoProjeto {get; set; }
         [Column("nm_area")]
         public string Area { get; set; }
         [Column("fl_status")]
