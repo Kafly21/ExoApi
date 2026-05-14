@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ExoApi.Models
 {
-    [Table("tb_usuario")]
+    [Table("tb_usuarios")]
     public class Usuario
     {
         [Key]
